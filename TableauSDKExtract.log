@@ -1,0 +1,180 @@
+2016-11-02 19:06:53.453 (139750622041856): pid=30287----------------------------------
+2016-11-02 19:06:53.467 (139750622041856): Creating a connection to tde server
+2016-11-02 19:06:53.467 (139750622041856): Starting new server instance
+2016-11-02 19:06:53.467 (139750622041856): DataEngine log file will be written to "DataExtract.log"
+2016-11-02 19:06:53.467 (139750622041856): Launching tdeserver at "/usr/lib64/tableausdk/../../bin/tdeserver64"
+2016-11-02 19:06:53.467 (139750622041856): server callback endpoint: tab.tcp://[::1]:38940
+2016-11-02 19:06:53.467 (139750622041856): server listen endpoint: tab.tcp://:auto
+2016-11-02 19:06:53.613 (139750622041856): Server is up and running
+2016-11-02 19:06:53.613 (139750622041856): Server is listening at: tab.tcp://[::1]:47101
+2016-11-02 19:06:53.613 (139750622041856): Opening connection to tab.tcp://[::1]:47101
+2016-11-02 19:06:53.613 (139750622041856): Creating new connection: tab.tcp://[::1]:47101
+2016-11-02 19:06:53.615 (139750622041856): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:06:53.735 (139750622041856): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:06:53.804 (139750622041856): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:06:53.846 (139750622041856): Dropping connection
+2016-11-02 19:06:53.856 (139750622041856): Closing server at: tab.tcp://[::1]:47101
+2016-11-02 19:06:53.856 (139750622041856): Closing server at tab.tcp://[::1]:47101
+2016-11-02 19:06:53.967 (139750622041856): Server was successfully closed
+2016-11-02 19:07:56.862 (139923585996544): pid=30403----------------------------------
+2016-11-02 19:07:56.872 (139923585996544): Creating a connection to tde server
+2016-11-02 19:07:56.872 (139923585996544): Starting new server instance
+2016-11-02 19:07:56.872 (139923585996544): DataEngine log file will be written to "DataExtract.log"
+2016-11-02 19:07:56.872 (139923585996544): Launching tdeserver at "/usr/lib64/tableausdk/../../bin/tdeserver64"
+2016-11-02 19:07:56.873 (139923585996544): server callback endpoint: tab.tcp://[::1]:52047
+2016-11-02 19:07:56.873 (139923585996544): server listen endpoint: tab.tcp://:auto
+2016-11-02 19:07:57.028 (139923585996544): Server is up and running
+2016-11-02 19:07:57.028 (139923585996544): Server is listening at: tab.tcp://[::1]:37544
+2016-11-02 19:07:57.028 (139923585996544): Opening connection to tab.tcp://[::1]:37544
+2016-11-02 19:07:57.028 (139923585996544): Creating new connection: tab.tcp://[::1]:37544
+2016-11-02 19:07:57.035 (139923585996544): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:07:57.157 (139923585996544): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:07:57.228 (139923585996544): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:07:57.275 (139923585996544): Dropping connection
+2016-11-02 19:07:57.285 (139923585996544): Closing server at: tab.tcp://[::1]:37544
+2016-11-02 19:07:57.285 (139923585996544): Closing server at tab.tcp://[::1]:37544
+2016-11-02 19:07:57.395 (139923585996544): Server was successfully closed
+2016-11-02 19:11:10.198 (140064243140352): pid=30563----------------------------------
+2016-11-02 19:11:10.208 (140064243140352): Creating a connection to tde server
+2016-11-02 19:11:10.208 (140064243140352): Starting new server instance
+2016-11-02 19:11:10.208 (140064243140352): DataEngine log file will be written to "DataExtract.log"
+2016-11-02 19:11:10.208 (140064243140352): Launching tdeserver at "/usr/lib64/tableausdk/../../bin/tdeserver64"
+2016-11-02 19:11:10.208 (140064243140352): server callback endpoint: tab.tcp://[::1]:50459
+2016-11-02 19:11:10.208 (140064243140352): server listen endpoint: tab.tcp://:auto
+2016-11-02 19:11:10.348 (140064243140352): Server is up and running
+2016-11-02 19:11:10.348 (140064243140352): Server is listening at: tab.tcp://[::1]:38891
+2016-11-02 19:11:10.348 (140064243140352): Opening connection to tab.tcp://[::1]:38891
+2016-11-02 19:11:10.348 (140064243140352): Creating new connection: tab.tcp://[::1]:38891
+2016-11-02 19:11:10.349 (140064243140352): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:11:10.483 (140064243140352): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:11:10.547 (140064243140352): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:11:10.593 (140064243140352): Dropping connection
+2016-11-02 19:11:10.603 (140064243140352): Closing server at: tab.tcp://[::1]:38891
+2016-11-02 19:11:10.603 (140064243140352): Closing server at tab.tcp://[::1]:38891
+2016-11-02 19:11:10.714 (140064243140352): Server was successfully closed
+2016-11-02 19:11:20.829 (139749375432448): pid=30620----------------------------------
+2016-11-02 19:11:20.841 (139749375432448): Creating a connection to tde server
+2016-11-02 19:11:20.841 (139749375432448): Starting new server instance
+2016-11-02 19:11:20.841 (139749375432448): DataEngine log file will be written to "DataExtract.log"
+2016-11-02 19:11:20.841 (139749375432448): Launching tdeserver at "/usr/lib64/tableausdk/../../bin/tdeserver64"
+2016-11-02 19:11:20.842 (139749375432448): server callback endpoint: tab.tcp://[::1]:45063
+2016-11-02 19:11:20.842 (139749375432448): server listen endpoint: tab.tcp://:auto
+2016-11-02 19:11:20.968 (139749375432448): Server is up and running
+2016-11-02 19:11:20.968 (139749375432448): Server is listening at: tab.tcp://[::1]:33737
+2016-11-02 19:11:20.968 (139749375432448): Opening connection to tab.tcp://[::1]:33737
+2016-11-02 19:11:20.968 (139749375432448): Creating new connection: tab.tcp://[::1]:33737
+2016-11-02 19:11:20.970 (139749375432448): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:11:21.258 (139749375432448): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:11:21.412 (139749375432448): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:11:21.580 (139749375432448): Dropping connection
+2016-11-02 19:11:21.590 (139749375432448): Closing server at: tab.tcp://[::1]:33737
+2016-11-02 19:11:21.590 (139749375432448): Closing server at tab.tcp://[::1]:33737
+2016-11-02 19:11:21.700 (139749375432448): Server was successfully closed
+2016-11-02 19:14:22.386 (140211953592064): pid=30757----------------------------------
+2016-11-02 19:14:22.395 (140211953592064): Creating a connection to tde server
+2016-11-02 19:14:22.395 (140211953592064): Starting new server instance
+2016-11-02 19:14:22.395 (140211953592064): DataEngine log file will be written to "DataExtract.log"
+2016-11-02 19:14:22.395 (140211953592064): Launching tdeserver at "/usr/lib64/tableausdk/../../bin/tdeserver64"
+2016-11-02 19:14:22.395 (140211953592064): server callback endpoint: tab.tcp://[::1]:51994
+2016-11-02 19:14:22.395 (140211953592064): server listen endpoint: tab.tcp://:auto
+2016-11-02 19:14:22.530 (140211953592064): Server is up and running
+2016-11-02 19:14:22.530 (140211953592064): Server is listening at: tab.tcp://[::1]:35229
+2016-11-02 19:14:22.530 (140211953592064): Opening connection to tab.tcp://[::1]:35229
+2016-11-02 19:14:22.530 (140211953592064): Creating new connection: tab.tcp://[::1]:35229
+2016-11-02 19:14:22.534 (140211953592064): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:14:22.710 (140211953592064): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:14:22.807 (140211953592064): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:14:22.907 (140211953592064): Dropping connection
+2016-11-02 19:14:22.918 (140211953592064): Closing server at: tab.tcp://[::1]:35229
+2016-11-02 19:14:22.918 (140211953592064): Closing server at tab.tcp://[::1]:35229
+2016-11-02 19:14:23.028 (140211953592064): Server was successfully closed
+2016-11-02 19:15:03.151 (140626380932864): pid=30832----------------------------------
+2016-11-02 19:15:03.162 (140626380932864): Creating a connection to tde server
+2016-11-02 19:15:03.162 (140626380932864): Starting new server instance
+2016-11-02 19:15:03.162 (140626380932864): DataEngine log file will be written to "DataExtract.log"
+2016-11-02 19:15:03.162 (140626380932864): Launching tdeserver at "/usr/lib64/tableausdk/../../bin/tdeserver64"
+2016-11-02 19:15:03.162 (140626380932864): server callback endpoint: tab.tcp://[::1]:42928
+2016-11-02 19:15:03.162 (140626380932864): server listen endpoint: tab.tcp://:auto
+2016-11-02 19:15:03.305 (140626380932864): Server is up and running
+2016-11-02 19:15:03.305 (140626380932864): Server is listening at: tab.tcp://[::1]:52694
+2016-11-02 19:15:03.305 (140626380932864): Opening connection to tab.tcp://[::1]:52694
+2016-11-02 19:15:03.305 (140626380932864): Creating new connection: tab.tcp://[::1]:52694
+2016-11-02 19:15:03.305 (140626380932864): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:15:03.508 (140626380932864): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:15:03.602 (140626380932864): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:15:03.694 (140626380932864): Dropping connection
+2016-11-02 19:15:03.704 (140626380932864): Closing server at: tab.tcp://[::1]:52694
+2016-11-02 19:15:03.704 (140626380932864): Closing server at tab.tcp://[::1]:52694
+2016-11-02 19:15:03.815 (140626380932864): Server was successfully closed
+2016-11-02 19:32:31.090 (139644297725696): pid=31277----------------------------------
+2016-11-02 19:32:31.100 (139644297725696): Creating a connection to tde server
+2016-11-02 19:32:31.100 (139644297725696): Starting new server instance
+2016-11-02 19:32:31.100 (139644297725696): DataEngine log file will be written to "DataExtract.log"
+2016-11-02 19:32:31.100 (139644297725696): Launching tdeserver at "/usr/lib64/tableausdk/../../bin/tdeserver64"
+2016-11-02 19:32:31.100 (139644297725696): server callback endpoint: tab.tcp://[::1]:53712
+2016-11-02 19:32:31.100 (139644297725696): server listen endpoint: tab.tcp://:auto
+2016-11-02 19:32:31.259 (139644297725696): Server is up and running
+2016-11-02 19:32:31.259 (139644297725696): Server is listening at: tab.tcp://[::1]:49313
+2016-11-02 19:32:31.259 (139644297725696): Opening connection to tab.tcp://[::1]:49313
+2016-11-02 19:32:31.259 (139644297725696): Creating new connection: tab.tcp://[::1]:49313
+2016-11-02 19:32:31.267 (139644297725696): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:32:31.505 (139644297725696): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:32:31.613 (139644297725696): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:32:31.707 (139644297725696): Dropping connection
+2016-11-02 19:32:31.717 (139644297725696): Closing server at: tab.tcp://[::1]:49313
+2016-11-02 19:32:31.717 (139644297725696): Closing server at tab.tcp://[::1]:49313
+2016-11-02 19:32:31.827 (139644297725696): Server was successfully closed
+2016-11-02 19:34:01.852 (140086029891328): pid=31407----------------------------------
+2016-11-02 19:34:01.868 (140086029891328): Creating a connection to tde server
+2016-11-02 19:34:01.869 (140086029891328): Starting new server instance
+2016-11-02 19:34:01.869 (140086029891328): DataEngine log file will be written to "DataExtract.log"
+2016-11-02 19:34:01.869 (140086029891328): Launching tdeserver at "/usr/lib64/tableausdk/../../bin/tdeserver64"
+2016-11-02 19:34:01.869 (140086029891328): server callback endpoint: tab.tcp://[::1]:43603
+2016-11-02 19:34:01.869 (140086029891328): server listen endpoint: tab.tcp://:auto
+2016-11-02 19:34:01.996 (140086029891328): Server is up and running
+2016-11-02 19:34:01.996 (140086029891328): Server is listening at: tab.tcp://[::1]:54235
+2016-11-02 19:34:01.996 (140086029891328): Opening connection to tab.tcp://[::1]:54235
+2016-11-02 19:34:01.996 (140086029891328): Creating new connection: tab.tcp://[::1]:54235
+2016-11-02 19:34:01.997 (140086029891328): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:34:02.134 (140086029891328): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:34:02.217 (140086029891328): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:34:02.334 (140086029891328): Dropping connection
+2016-11-02 19:34:02.344 (140086029891328): Closing server at: tab.tcp://[::1]:54235
+2016-11-02 19:34:02.344 (140086029891328): Closing server at tab.tcp://[::1]:54235
+2016-11-02 19:34:02.459 (140086029891328): Server was successfully closed
+2016-11-02 19:34:23.827 (139861783262976): pid=31474----------------------------------
+2016-11-02 19:34:23.848 (139861783262976): Creating a connection to tde server
+2016-11-02 19:34:23.848 (139861783262976): Starting new server instance
+2016-11-02 19:34:23.848 (139861783262976): DataEngine log file will be written to "DataExtract.log"
+2016-11-02 19:34:23.848 (139861783262976): Launching tdeserver at "/usr/lib64/tableausdk/../../bin/tdeserver64"
+2016-11-02 19:34:23.848 (139861783262976): server callback endpoint: tab.tcp://[::1]:60199
+2016-11-02 19:34:23.848 (139861783262976): server listen endpoint: tab.tcp://:auto
+2016-11-02 19:34:24.001 (139861783262976): Server is up and running
+2016-11-02 19:34:24.001 (139861783262976): Server is listening at: tab.tcp://[::1]:53767
+2016-11-02 19:34:24.001 (139861783262976): Opening connection to tab.tcp://[::1]:53767
+2016-11-02 19:34:24.001 (139861783262976): Creating new connection: tab.tcp://[::1]:53767
+2016-11-02 19:34:24.004 (139861783262976): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:34:24.243 (139861783262976): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:34:24.340 (139861783262976): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:34:24.438 (139861783262976): Dropping connection
+2016-11-02 19:34:24.448 (139861783262976): Closing server at: tab.tcp://[::1]:53767
+2016-11-02 19:34:24.448 (139861783262976): Closing server at tab.tcp://[::1]:53767
+2016-11-02 19:34:24.559 (139861783262976): Server was successfully closed
+2016-11-02 19:34:36.098 (139749274367744): pid=31532----------------------------------
+2016-11-02 19:34:36.106 (139749274367744): Creating a connection to tde server
+2016-11-02 19:34:36.106 (139749274367744): Starting new server instance
+2016-11-02 19:34:36.106 (139749274367744): DataEngine log file will be written to "DataExtract.log"
+2016-11-02 19:34:36.106 (139749274367744): Launching tdeserver at "/usr/lib64/tableausdk/../../bin/tdeserver64"
+2016-11-02 19:34:36.107 (139749274367744): server callback endpoint: tab.tcp://[::1]:53336
+2016-11-02 19:34:36.107 (139749274367744): server listen endpoint: tab.tcp://:auto
+2016-11-02 19:34:36.242 (139749274367744): Server is up and running
+2016-11-02 19:34:36.242 (139749274367744): Server is listening at: tab.tcp://[::1]:39427
+2016-11-02 19:34:36.242 (139749274367744): Opening connection to tab.tcp://[::1]:39427
+2016-11-02 19:34:36.242 (139749274367744): Creating new connection: tab.tcp://[::1]:39427
+2016-11-02 19:34:36.243 (139749274367744): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:34:36.401 (139749274367744): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:34:36.493 (139749274367744): Connecting to existing database at "/home/mathan/work/projects/pa/tableau-sample/order-java.tde"
+2016-11-02 19:34:36.594 (139749274367744): Dropping connection
+2016-11-02 19:34:36.604 (139749274367744): Closing server at: tab.tcp://[::1]:39427
+2016-11-02 19:34:36.604 (139749274367744): Closing server at tab.tcp://[::1]:39427
+2016-11-02 19:34:36.714 (139749274367744): Server was successfully closed

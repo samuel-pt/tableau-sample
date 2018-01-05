@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jna">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../softwares/tableau/sdk/Java/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../softwares/tableau/sdk/Java/tableaucommon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../softwares/tableau/sdk/Java/tableauextract.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../softwares/tableau/sdk/Java/tableauserver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
